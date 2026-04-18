@@ -1,10 +1,11 @@
+import Say from "./components/Say"
 
 function App() {
 
 
   return (
     <>
-      <h1>Tural dərsə bax</h1>
+     <Say/>
     </>
   )
 }
